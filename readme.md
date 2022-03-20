@@ -1,1 +1,1 @@
-this is explain text
+Creating a new branch is quick
